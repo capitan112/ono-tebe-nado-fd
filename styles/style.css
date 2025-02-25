@@ -131,7 +131,6 @@
 .cover__description {
     display: flex;
     color: #fff;
-    display: flex;
     align-items: center;
     justify-content: space-between;
     font-size: 22px;
@@ -140,7 +139,6 @@
     text-transform: uppercase;
     position: relative;
     z-index: 2;
-
     padding-top: 104px;
 }
 
